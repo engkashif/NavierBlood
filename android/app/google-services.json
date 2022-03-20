@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "114678358686",
+    "firebase_url": "https://navierbloodfire-default-rtdb.firebaseio.com",
+    "project_id": "navierbloodfire",
+    "storage_bucket": "navierbloodfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114678358686:android:7cc813f96c47c8210c518f",
+        "android_client_info": {
+          "package_name": "com.navierblood.navierblood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114678358686-ckgae4blfa6612fat744ba82597dung5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.navierblood.navierblood",
+            "certificate_hash": "f4e63aae4ed1b5d1ca37d54c7c3a11a32eba7017"
+          }
+        },
+        {
+          "client_id": "114678358686-vh27ij8quhjv80tg440e8lnbasr0crjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOQiicjFwiWM_WI0lgt0C2SyrxMB1qSbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114678358686-vh27ij8quhjv80tg440e8lnbasr0crjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
